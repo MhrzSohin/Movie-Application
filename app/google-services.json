@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867426615212",
+    "project_id": "movie-application-2e5d6",
+    "storage_bucket": "movie-application-2e5d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867426615212:android:ab4ed8626d50de57adc409",
+        "android_client_info": {
+          "package_name": "edu.udemylearning.movieapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAokSLK2LoS_gbQ2nuD-ciiY_SoSG3Zhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
